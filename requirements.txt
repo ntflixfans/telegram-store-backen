@@ -3,3 +3,7 @@ uvicorn[standard]
 python-dotenv
 pymongo
 dnspython
+uvicorn
+python-multipart
+passlib[bcrypt]
+jose
